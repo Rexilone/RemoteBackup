@@ -49,3 +49,9 @@ cd ssh-config-backup
 # Build and install the package
 makepkg -si
 ```
+
+Install dependencies
+
+```bash
+sudo pacman -S python python-tk python-paramiko openssh sshpass
+```
