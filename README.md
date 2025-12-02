@@ -32,8 +32,8 @@ SSH Config Backup Tool ⚡
   </tr>
   <tr>
     <td><img src="screenshots/2025-12-02-182709_hyprshot.png" width="100%"></td>
-    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="105%"></td>
-    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="115%"></td>
+    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="115%"></td>
+    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="150%"></td>
   </tr>
   <tr>
     <td align="center">Manage configuration files</td>
