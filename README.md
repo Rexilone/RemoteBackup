@@ -33,3 +33,23 @@ SSH Config Backup Tool ⚡
 </p>
 
 </div>
+
+
+<div align="center">
+
+### Application Interface
+
+<table width="100%">
+<tr>
+<td width="33%" align="center"><strong>📁 Config Management</strong></td>
+<td width="33%" align="center"><strong>🔧 SSH Settings</strong></td>
+<td width="33%" align="center"><strong>⏰ Auto Backup</strong></td>
+</tr>
+<tr>
+<td><img src="screenshots/1.png" width="100%"></td>
+<td><img src="screenshots/2.png" width="100%"></td>
+<td><img src="screenshots/3.png" width="100%"></td>
+</tr>
+</table>
+
+</div>
