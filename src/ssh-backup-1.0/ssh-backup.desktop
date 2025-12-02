@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RemoteBackup
+GenericName=SSH Configuration Backup
+Comment=Modern SSH configuration backup tool with beautiful UI
+Exec=ssh-backup
+Icon=ssh-backup
+Categories=Network;RemoteAccess;Backup;
+Terminal=false
+StartupWMClass=SSH Backup
+Keywords=ssh;backup;config;remote;sftp;scp;
+MimeType=
+X-AppImage-Version=1.0
