@@ -17,3 +17,7 @@ SSH Config Backup Tool ⚡
 + 📊 Detailed logging of all operations
 + 🚀 Easy configuration management
 + 🎯 Smart file type detection (files/directories)
+
+| Configuration Management | SSH Settings | Auto Backup |
+|--------------------------|--------------|-------------|
+| ![Configs Tab](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182709_hyprshot.png) | ![SSH Settings](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182725_hyprshot.png) | ![Auto Backup](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182742_hyprshot.png) |
