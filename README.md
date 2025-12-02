@@ -22,16 +22,6 @@ SSH Config Backup Tool ⚡
 
 <div align="center">
 
-### Slide 1 of 3
-![Config Management](2025-12-02-182709_hyprshot.png)
-**Configuration Management** - Add and manage SSH config files
-
-[◀ Previous](#) | [Next ▶](#slide2)
----
-</div>
-
-<div align="center">
-
 <h3>Application Interface</h3>
 
 <table>
@@ -41,9 +31,9 @@ SSH Config Backup Tool ⚡
     <td align="center"><b>Auto Backup</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/2025-12-02-182709_hyprshot.png" width="100%"></td>
-    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="115%"></td>
-    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="150%"></td>
+    <td><img src="screenshots/1.png" width="100%"></td>
+    <td><img src="screenshots/2.png" width="115%"></td>
+    <td><img src="screenshots/3.png" width="150%"></td>
   </tr>
   <tr>
     <td align="center">Manage configuration files</td>
@@ -56,4 +46,4 @@ SSH Config Backup Tool ⚡
 
 | Configuration Management | SSH Settings | Auto Backup |
 |--------------------------|--------------|-------------|
-| ![Configs Tab](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182709_hyprshot.png) | ![SSH Settings](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182725_hyprshot.png) | ![Auto Backup](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182742_hyprshot.png) |
+| ![Configs Tab](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/1.png) | ![SSH Settings](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2.png) | ![Auto Backup](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/3.png) |
