@@ -22,28 +22,14 @@ SSH Config Backup Tool ⚡
 
 <div align="center">
 
-<h3>Application Interface</h3>
+<img src="screenshots/fixed/1.png" width="32%" />
+<img src="screenshots/fixed/2.png" width="32%" />
+<img src="screenshots/fixed/3.png" width="32%" />
 
-<table>
-  <tr>
-    <td align="center"><b>Config Management</b></td>
-    <td align="center"><b>SSH Settings</b></td>
-    <td align="center"><b>Auto Backup</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/1.png" width="100%"></td>
-    <td><img src="screenshots/2.png" width="115%"></td>
-    <td><img src="screenshots/3.png" width="150%"></td>
-  </tr>
-  <tr>
-    <td align="center">Manage configuration files</td>
-    <td align="center">Configure SSH connections</td>
-    <td align="center">Schedule automatic backups</td>
-  </tr>
-</table>
+<p>
+<strong>📁 Config Management</strong> | 
+<strong>🔧 SSH Settings</strong> | 
+<strong>⏰ Auto Backup</strong>
+</p>
 
 </div>
-
-| Configuration Management | SSH Settings | Auto Backup |
-|--------------------------|--------------|-------------|
-| ![Configs Tab](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/1.png) | ![SSH Settings](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2.png) | ![Auto Backup](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/3.png) |
