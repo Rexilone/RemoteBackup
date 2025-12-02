@@ -22,6 +22,16 @@ SSH Config Backup Tool ⚡
 
 <div align="center">
 
+### Slide 1 of 3
+![Config Management](2025-12-02-182709_hyprshot.png)
+**Configuration Management** - Add and manage SSH config files
+
+[◀ Previous](#) | [Next ▶](#slide2)
+---
+</div>
+
+<div align="center">
+
 <h3>Application Interface</h3>
 
 <table>
