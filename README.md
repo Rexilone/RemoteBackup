@@ -10,10 +10,10 @@ SSH Config Backup Tool ⚡
 </div>
 ✨ Features
 
-· 🔒 Secure SSH connections with password support
-· 📁 Multi-protocol copying (SCP, SFTP, recursive)
-· ⏰ Automatic scheduling via crontab
-· 🔍 Remote file verification and accessibility checks
-· 📊 Detailed logging of all operations
-· 🚀 Easy configuration management
-· 🎯 Smart file type detection (files/directories)
++ 🔒 Secure SSH connections with password support
++ 📁 Multi-protocol copying (SCP, SFTP, recursive)
++ ⏰ Automatic scheduling via crontab
++ 🔍 Remote file verification and accessibility checks
++ 📊 Detailed logging of all operations
++ 🚀 Easy configuration management
++ 🎯 Smart file type detection (files/directories)
