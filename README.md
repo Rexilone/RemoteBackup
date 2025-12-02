@@ -1,11 +1,11 @@
 SSH Config Backup Tool ⚡
 <div align="center">
 
-https://img.shields.io/badge/version-1.0-blue
-https://img.shields.io/badge/python-3.8+-green
-https://img.shields.io/badge/license-MIT-orange
-https://img.shields.io/badge/platform-Linux-lightgrey
-https://img.shields.io/badge/Arch_Linux-Supported-blue
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-Linux-orange)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Supported-blueviolet)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 </div>
 ✨ Features
