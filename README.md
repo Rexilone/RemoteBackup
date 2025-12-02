@@ -55,3 +55,24 @@ Install dependencies
 ```bash
 sudo pacman -S python python-tk python-paramiko openssh sshpass
 ```
+
+🚀 Quick Start
+
+1. Launch the application:
+   ```bash
+   ssh-config-backup
+   ```
+3. Add configuration files:
+   + Click "📁 Configs" tab
+   + Add remote paths (e.g., /etc/ssh/sshd_config)
+   + Default path: /etc/ssh/sshd_config
+4. Configure SSH connection:
+   + Enter server IP address
+   + Set SSH port (default: 22)
+   + Provide username and password
+   + Test connection
+5. Start backup:
+   + Click "Start Backup" button
+   + View progress in real-time logs
+   + Find backups in ~/RemoteBackup/backups/
+     
