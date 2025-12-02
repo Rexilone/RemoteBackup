@@ -22,9 +22,9 @@ SSH Config Backup Tool ⚡
 
 <div align="center">
 
-<img src="screenshots/fixed/1.png" width="32%" />
-<img src="screenshots/fixed/2.png" width="32%" />
-<img src="screenshots/fixed/3.png" width="32%" />
+<img src="screenshots/1.png" width="32%" />
+<img src="screenshots/2.png" width="32%" />
+<img src="screenshots/3.png" width="32%" />
 
 <p>
 <strong>📁 Config Management</strong> | 
