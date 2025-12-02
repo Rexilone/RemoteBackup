@@ -18,6 +18,38 @@ SSH Config Backup Tool ⚡
 + 🚀 Easy configuration management
 + 🎯 Smart file type detection (files/directories)
 
+## 📸 Screenshots
+
+<div align="center">
+
+<h3>Application Interface</h3>
+
+<table>
+  <tr>
+    <td align="center"><b>Config Management</b></td>
+    <td align="center"><b>SSH Settings</b></td>
+    <td align="center"><b>Auto Backup</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/2025-12-02-182709_hyprshot.png" width="100%"></td>
+    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="100%"></td>
+    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Manage configuration files</td>
+    <td align="center">Configure SSH connections</td>
+    <td align="center">Schedule automatic backups</td>
+  </tr>
+</table>
+
+<h3>Backup Process</h3>
+
+<img src="screenshots/backup-progress.png" width="800">
+
+<p><em>Real-time backup progress with detailed logging</em></p>
+
+</div>
+
 | Configuration Management | SSH Settings | Auto Backup |
 |--------------------------|--------------|-------------|
 | ![Configs Tab](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182709_hyprshot.png) | ![SSH Settings](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182725_hyprshot.png) | ![Auto Backup](https://github.com/Rexilone/RemoteBackup/blob/main/screenshots/2025-12-02-182742_hyprshot.png) |
