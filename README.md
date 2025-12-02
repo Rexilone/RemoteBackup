@@ -22,23 +22,6 @@ SSH Config Backup Tool ⚡
 
 <div align="center">
 
-<img src="screenshots/1.png" width="32%" />
-<img src="screenshots/2.png" width="32%" />
-<img src="screenshots/3.png" width="32%" />
-
-<p>
-<strong>📁 Config Management</strong> | 
-<strong>🔧 SSH Settings</strong> | 
-<strong>⏰ Auto Backup</strong>
-</p>
-
-</div>
-
-
-<div align="center">
-
-### Application Interface
-
 <table width="100%">
 <tr>
 <td width="33%" align="center"><strong>📁 Config Management</strong></td>
