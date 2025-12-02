@@ -32,8 +32,8 @@ SSH Config Backup Tool ⚡
   </tr>
   <tr>
     <td><img src="screenshots/2025-12-02-182709_hyprshot.png" width="100%"></td>
-    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="100%"></td>
-    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="100%"></td>
+    <td><img src="screenshots/2025-12-02-182725_hyprshot.png" width="105%"></td>
+    <td><img src="screenshots/2025-12-02-182742_hyprshot.png" width="115%"></td>
   </tr>
   <tr>
     <td align="center">Manage configuration files</td>
@@ -41,12 +41,6 @@ SSH Config Backup Tool ⚡
     <td align="center">Schedule automatic backups</td>
   </tr>
 </table>
-
-<h3>Backup Process</h3>
-
-<img src="screenshots/backup-progress.png" width="800">
-
-<p><em>Real-time backup progress with detailed logging</em></p>
 
 </div>
 
