@@ -43,7 +43,7 @@ Arch Linux (AUR/makepkg)
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rexilone/ssh-config-backup.git
+git clone https://github.com/Rexilone/RemoteBackup.git
 cd ssh-config-backup
 
 # Build and install the package
