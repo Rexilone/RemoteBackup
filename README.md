@@ -39,7 +39,7 @@
 
 📦 Installation
 
-Arch Linux (AUR/makepkg)
+Arch Linux (makepkg)
 
 ```bash
 # Clone the repository
